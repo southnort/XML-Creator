@@ -1,0 +1,11 @@
+C:\Users\Ярик\Documents\Projects\XML Creator\XML Creator\bin\Debug\XML Creator.exe.config
+C:\Users\Ярик\Documents\Projects\XML Creator\XML Creator\bin\Debug\XML Creator.exe
+C:\Users\Ярик\Documents\Projects\XML Creator\XML Creator\bin\Debug\XML Creator.pdb
+C:\Users\Ярик\Documents\Projects\XML Creator\XML Creator\obj\Debug\XML Creator.csprojResolveAssemblyReference.cache
+C:\Users\Ярик\Documents\Projects\XML Creator\XML Creator\obj\Debug\XML_Creator.Form1.resources
+C:\Users\Ярик\Documents\Projects\XML Creator\XML Creator\obj\Debug\XML_Creator.Properties.Resources.resources
+C:\Users\Ярик\Documents\Projects\XML Creator\XML Creator\obj\Debug\XML Creator.csproj.GenerateResource.Cache
+C:\Users\Ярик\Documents\Projects\XML Creator\XML Creator\obj\Debug\XML Creator.exe
+C:\Users\Ярик\Documents\Projects\XML Creator\XML Creator\obj\Debug\XML Creator.pdb
+C:\Users\Ярик\Documents\Projects\XML Creator\XML Creator\bin\Debug\DotNetZip.dll
+C:\Users\Ярик\Documents\Projects\XML Creator\XML Creator\bin\Debug\DotNetZip.xml
