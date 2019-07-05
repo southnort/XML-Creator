@@ -9,3 +9,14 @@ C:\Users\Ярик\Documents\Projects\XML Creator\XML Creator\obj\Debug\XML Creat
 C:\Users\Ярик\Documents\Projects\XML Creator\XML Creator\obj\Debug\XML Creator.pdb
 C:\Users\Ярик\Documents\Projects\XML Creator\XML Creator\bin\Debug\DotNetZip.dll
 C:\Users\Ярик\Documents\Projects\XML Creator\XML Creator\bin\Debug\DotNetZip.xml
+C:\Users\User\Documents\Projects\XmlCreator\XML Creator\bin\Debug\XML Creator.exe.config
+C:\Users\User\Documents\Projects\XmlCreator\XML Creator\bin\Debug\XML Creator.exe
+C:\Users\User\Documents\Projects\XmlCreator\XML Creator\bin\Debug\XML Creator.pdb
+C:\Users\User\Documents\Projects\XmlCreator\XML Creator\obj\Debug\XML_Creator.Form1.resources
+C:\Users\User\Documents\Projects\XmlCreator\XML Creator\obj\Debug\XML_Creator.Properties.Resources.resources
+C:\Users\User\Documents\Projects\XmlCreator\XML Creator\obj\Debug\XML Creator.csproj.GenerateResource.cache
+C:\Users\User\Documents\Projects\XmlCreator\XML Creator\obj\Debug\XML Creator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projects\XmlCreator\XML Creator\obj\Debug\XML Creator.csproj.CopyComplete
+C:\Users\User\Documents\Projects\XmlCreator\XML Creator\obj\Debug\XML Creator.exe
+C:\Users\User\Documents\Projects\XmlCreator\XML Creator\obj\Debug\XML Creator.pdb
+C:\Users\User\Documents\Projects\XmlCreator\XML Creator\obj\Debug\XML Creator.csprojAssemblyReference.cache
