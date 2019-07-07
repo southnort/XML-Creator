@@ -170,7 +170,15 @@ namespace XML_Creator
 
         private void button4_Click(object sender, EventArgs e)
         {
-            TryCreateZipArchive();
+            try
+            {
+                TryCreateZipArchive();
+            }
+
+            catch (Exception ex)
+            {
+                richTextBox1.Text = ex.ToString();
+            }
         }
     }
 }
