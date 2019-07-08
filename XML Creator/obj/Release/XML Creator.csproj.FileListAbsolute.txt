@@ -1,0 +1,10 @@
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\bin\Release\XML Creator.exe.config
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\bin\Release\XML Creator.exe
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\bin\Release\XML Creator.pdb
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\obj\Release\XML Creator.csprojAssemblyReference.cache
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\obj\Release\XML_Creator.Form1.resources
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\obj\Release\XML_Creator.Properties.Resources.resources
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\obj\Release\XML Creator.csproj.GenerateResource.cache
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\obj\Release\XML Creator.csproj.CoreCompileInputs.cache
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\obj\Release\XML Creator.exe
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\obj\Release\XML Creator.pdb

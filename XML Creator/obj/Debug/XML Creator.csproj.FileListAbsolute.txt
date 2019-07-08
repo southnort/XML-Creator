@@ -20,3 +20,13 @@ C:\Users\User\Documents\Projects\XmlCreator\XML Creator\obj\Debug\XML Creator.cs
 C:\Users\User\Documents\Projects\XmlCreator\XML Creator\obj\Debug\XML Creator.exe
 C:\Users\User\Documents\Projects\XmlCreator\XML Creator\obj\Debug\XML Creator.pdb
 C:\Users\User\Documents\Projects\XmlCreator\XML Creator\obj\Debug\XML Creator.csprojAssemblyReference.cache
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\obj\Debug\XML Creator.csprojAssemblyReference.cache
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\obj\Debug\XML_Creator.Form1.resources
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\obj\Debug\XML_Creator.Properties.Resources.resources
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\obj\Debug\XML Creator.csproj.GenerateResource.cache
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\obj\Debug\XML Creator.csproj.CoreCompileInputs.cache
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\obj\Debug\XML Creator.exe
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\obj\Debug\XML Creator.pdb
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\bin\Debug\XML Creator.exe.config
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\bin\Debug\XML Creator.exe
+C:\Users\Ярик\Documents\Projects\XML-Creator\XML Creator\bin\Debug\XML Creator.pdb

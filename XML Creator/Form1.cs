@@ -28,8 +28,9 @@ namespace XML_Creator
 
         private void CreateFile(string filePath, string text)
         {
-            string[] str = text.Split('\n');
-            File.WriteAllLines(filePath, str);
+            // string[] str = text.Split(new char[] { '\n' }, StringSplitOptions.RemoveEmptyEntries);
+            // File.WriteAllLines(filePath, text);
+            File.WriteAllText(filePath, text);
 
             richTextBox1.Clear();
 
@@ -40,7 +41,7 @@ namespace XML_Creator
             if (textBox1.Text == string.Empty || textBox2.Text == string.Empty)
             {
                 MessageBox.Show("Нужно заполнить ИНН заказчика и № обращения", "",
-                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 return;
             }
 
@@ -73,7 +74,7 @@ namespace XML_Creator
         {
             string result =
 
-            inn + "_" + number + "_" +
+            inn + "_" + number +
             (addinional == string.Empty ? "" : ("_" + addinional)) + ".zip";
 
             return result
@@ -115,7 +116,7 @@ namespace XML_Creator
                 {
                     textBox1.Clear();
                     textBox2.Clear();
-                }                
+                }
             }
         }
 
@@ -132,7 +133,10 @@ namespace XML_Creator
             else if (!File.Exists(GUIDPath))
             {
                 CreateFile(GUIDPath, text);
-                TryCreateZipArchive();
+                if (textBox1.Text != string.Empty && textBox2.Text != string.Empty)
+                {
+                    TryCreateZipArchive();
+                }
             }
             else
                 TryCreateZipArchive();
@@ -150,8 +154,6 @@ namespace XML_Creator
                 string text = richTextBox1.Text == string.Empty ?
                 Clipboard.GetText() :
                 richTextBox1.Text;
-
-                //richTextBox1.Text = Clipboard.GetText();
 
                 if (richTextBox1.Text == string.Empty)
                     richTextBox1.Text = text;
